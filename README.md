@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![HTB Stats](https://github-readme-htb-stats.vercel.app/api/?username=irereinz&theme=dark)
+![HTB Stats](https://ik.imagekit.io/o4u0kylht/htb.jpg?updatedAt=1762882184904)
 
 </div>
 
