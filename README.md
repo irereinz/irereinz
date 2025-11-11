@@ -4,9 +4,9 @@
 
 # 🔥 PRO HACKER 🔥
 
-![HTB Pro](https://img.shields.io/badge/HackTheBox-👑_Elite_Hacker-red?style=for-the-badge&logo=hackthebox)
+![HTB Pro](https://img.shields.io/badge/HackTheBox-👑_pro_Hacker-red?style=for-the-badge&logo=hackthebox)
 ![Status](https://img.shields.io/badge/Status-Top_Player-purple?style=for-the-badge)
-![Machines](https://img.shields.io/badge/Machines_Solved-150%2B-green?style=for-the-badge)
+![Machines](https://img.shields.io/badge/Machines_Solved-92%2B-green?style=for-the-badge)
 
 </div>
 
