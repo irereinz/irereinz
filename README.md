@@ -1,10 +1,12 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm GreedIsGood!
 
 <div align="center">
 
-![HTB Player](https://img.shields.io/badge/HackTheBox-Player-green?style=for-the-badge&logo=hackthebox)
-![Level](https://img.shields.io/badge/Level-silver-blue?style=for-the-badge)
-![Rank](https://img.shields.io/badge/Rank-pro-hacker-red?style=for-the-badge)
+# 🔥 PRO HACKER 🔥
+
+![HTB Pro](https://img.shields.io/badge/HackTheBox-👑_Elite_Hacker-red?style=for-the-badge&logo=hackthebox)
+![Status](https://img.shields.io/badge/Status-Top_Player-purple?style=for-the-badge)
+![Machines](https://img.shields.io/badge/Machines_Solved-150%2B-green?style=for-the-badge)
 
 </div>
 
