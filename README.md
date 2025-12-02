@@ -28,7 +28,7 @@
 
 ## 🎯 Currently Working On
 - [ ] HTB Player
-- [ ] Security Research
+- [ ] Security Researcher
 
 ## 📫 Connect With Me
 [![HTB](https://img.shields.io/badge/HackTheBox-Profile-green?style=flat-square&logo=hackthebox)](https://app.hackthebox.com/profile/1942840)
